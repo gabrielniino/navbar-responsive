@@ -1,2 +1,2 @@
 # navbar-responsive
- responsive menu developed in html, css and js
+ responsive menu developed in HTML5, CSS3 and JS
